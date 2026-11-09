@@ -8,6 +8,7 @@ authors = [
 ]
 requires-python = ">=3.14"
 dependencies = [
+    "ipykernel>=7.4.0",
     "xarray>=2026.9.0",
 ]
 
