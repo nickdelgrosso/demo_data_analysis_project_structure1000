@@ -1,0 +1,24 @@
+README.md
+  h_f3dc440392beca 1-2
+workflow.smk
+  h_f3dc440392beca 1-25
+pyproject.toml
+  h_f3dc440392beca 11
+scratch/gg.py
+  h_f3dc440392beca 1-7
+scripts/aa.ipynb
+  h_f3dc440392beca 1-48
+uv.lock
+  h_f3dc440392beca 10-121,127,132-263,370-469,482-609,619-654
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f8a541e19976687e47e2130fbdb184d4aabb06e2",
+  "prompts": {},
+  "humans": {
+    "h_f3dc440392beca": {
+      "author": "Nicholas A. Del Grosso <delgrosso.nick@gmail.com>"
+    }
+  }
+}
